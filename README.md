@@ -13,9 +13,9 @@ This application is my attempt to recreate those creatures and bringing them to 
 ![Processing](/images/application-screenshot-1.png)
 
 ## Controls
-C to toggle the controls.
-H to toggle the help.
-1-5 to toggle a step by step walkthrough.
+- C to toggle the controls.
+- H to toggle the help.
+- 1-5 to toggle a step by step walkthrough.
 
 
 
