@@ -31,7 +31,7 @@ https://processing.org/
 This project uses ControlP5, a library written by Andreas Schlegel<br>
 http://www.sojamo.de/libraries/controlP5/
 
-Have a nice day!
+Have a nice day!<br>
 Philipp Lehmann
 
 
