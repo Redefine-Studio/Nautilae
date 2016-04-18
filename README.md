@@ -24,5 +24,10 @@ This application is my attempt to recreate those creatures and bringing them to 
 ![Example](/images/example.gif)
 
 
+## Controls library used
+ControlP5 is a library written by Andreas Schlegel
+http://www.sojamo.de/libraries/controlP5/
+
+
 
 
