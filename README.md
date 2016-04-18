@@ -24,9 +24,15 @@ This application is my attempt to recreate those creatures and bringing them to 
 ![Example](/images/example.gif)
 
 
-## Library
+## Rescources
+This project has been built with Processing.<br>
+https://processing.org/
+
 This project uses ControlP5, a library written by Andreas Schlegel<br>
 http://www.sojamo.de/libraries/controlP5/
+
+Have a nice day!
+Philipp Lehmann
 
 
 
